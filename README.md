@@ -63,7 +63,7 @@ Number each letter in the indicator word in alphabetical order:
     5   3   1   6   4   2   7
 
 
-Starting at 1, 2, ... , n list the letters of the Mad Hatter's 
+Starting at position 1, 2, ..., 7 list the letters of the Mad Hatter's 
 message "ttialmh" (without the indicator letter) below the indicator word:
 
     t   e   a   t   r   a   y   
