@@ -78,12 +78,12 @@ which is an abbreviation of your title:
     
 **Exercise:**
     
-    Decrypt the message: "sooojgdb"
-    <details>
-      <summary>See answer!</summary>
-      
-      good job
-    </details>
+Decrypt the message: "sooojgdb"
+<details>
+<summary>See answer!</summary>
+
+good job
+</details>
     
     
 For more information about poem code, here's an article that goes 
