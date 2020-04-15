@@ -16,6 +16,9 @@ int main() {
                         "like", "a", "teatray", "in", "the", "sky"};
 
     vector<char> encodedMsg = {'s', 't', 't', 'i', 'a', 'l', 'm', 'h'};
+    //vector<char> encodedMsg = {'s', 'o', 'o', 'o', 'j', 'g', 'd', 'b'};
+
+
 
     // Print out msg
     cout << endl << "POEM CODE" << endl;
