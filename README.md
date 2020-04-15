@@ -63,16 +63,14 @@ Number each letter in the indicator word in alphabetical order:
     5   3   1   6   4   2   7
 
 
-List the letters of the Mad Hatter's message below the indicator word:
+Starting at 1, 2, ... , n list the letters of the Mad Hatter's 
+message "ttialmh" (without the indicator letter) below the indicator word:
 
     t   e   a   t   r   a   y   
     5   3   1   6   4   2   7
-    s   t   t   i   a   m   h
+    -------------------------
+    l   i   t   m   a   t   h
 
-Starting from 1, 2, ... , n read the letters of the message:
-
-    litmath
-    
 which is an abbreviation of your title:
     
     Lit. Math. = Literary Mathematician
