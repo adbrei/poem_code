@@ -80,7 +80,7 @@ which is an abbreviation of your title:
     
     Decrypt the message: "sooojgdb"
 <details>
-<summary>See the answer!</summary>
+<summary>Click here to see the answer!</summary>
 
 good job
 </details>
