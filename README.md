@@ -16,7 +16,6 @@ into a single line that has a one-to-one correspondence to
 each letter in the indicator word. This eliminates the need 
 to read down columns of letters.
   
-##How it works: 
 
 **The scenario:**
 
