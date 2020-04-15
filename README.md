@@ -10,13 +10,13 @@ and encryption/decryption (mathematics).
 It features heavily in Leo Mark’s *Between Silk and Cyanide*.
 
 For ease of presentation, the poem code implemented here is 
-actually a simplified version of the code used during World 
+a simplified version of the code used during World 
 War II. It flattens the en/decryption matrix by fitting the entire message 
 into a single line that has a one-to-one correspondence to 
 each letter in the indicator word. This eliminates the need 
 to read down columns of letters.
   
-###How it works: 
+##How it works: 
 
 **The scenario:**
 
@@ -49,8 +49,13 @@ from the poem used to encrypt the message.
 
 The first letter of the Mad Hatter's message is "s." 
 You find the indicator word by
-checking the "s"th position of the poem: if a = "Twinkle", 
-b = "twinkle", c = "little",... s = "teatray".
+checking the "s"th position of the poem: 
+
+    a = "Twinkle",
+    b = "twinkle",
+    c = "little",
+    ...
+    s = "teatray"
 
 Number each letter in the indicator word in alphabetical order:
 
@@ -72,3 +77,7 @@ Starting from 1, 2, ... , n read the letters of the message:
 which is an abbreviation of your title:
     
     Lit. Math. = Literary Mathematician
+    
+    
+For more information about poem code, here's an article that goes 
+into more depth: https://darthnull.org/fun/2016/03/27/poem-codes/
